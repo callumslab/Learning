@@ -1,0 +1,10 @@
+C:\SourceControl\Learning\C#\Chapter01\Ch01_WelcomeDotNetCore\bin\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.deps.json
+C:\SourceControl\Learning\C#\Chapter01\Ch01_WelcomeDotNetCore\bin\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.runtimeconfig.json
+C:\SourceControl\Learning\C#\Chapter01\Ch01_WelcomeDotNetCore\bin\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.runtimeconfig.dev.json
+C:\SourceControl\Learning\C#\Chapter01\Ch01_WelcomeDotNetCore\bin\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.dll
+C:\SourceControl\Learning\C#\Chapter01\Ch01_WelcomeDotNetCore\bin\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.pdb
+C:\SourceControl\Learning\C#\Chapter01\Ch01_WelcomeDotNetCore\obj\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.csproj.CoreCompileInputs.cache
+C:\SourceControl\Learning\C#\Chapter01\Ch01_WelcomeDotNetCore\obj\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.AssemblyInfoInputs.cache
+C:\SourceControl\Learning\C#\Chapter01\Ch01_WelcomeDotNetCore\obj\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.AssemblyInfo.cs
+C:\SourceControl\Learning\C#\Chapter01\Ch01_WelcomeDotNetCore\obj\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.dll
+C:\SourceControl\Learning\C#\Chapter01\Ch01_WelcomeDotNetCore\obj\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.pdb

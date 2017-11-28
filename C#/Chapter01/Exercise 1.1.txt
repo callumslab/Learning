@@ -1,0 +1,19 @@
+1. Because there is an intermediate compiler language (IL) that sits between CPU code and the source code.
+
+2. "dotnet new console" to build a new console application and "dotnet run" to execute source code
+
+3. Unsure
+
+4. Ctrl + '
+
+5. Some might say...
+
+6. I think so, it's the future
+
+7. No intermediate language is used, this makes it faster and more efficient but you can't move it between platforms as it's native language
+
+8. The .NET standard allows a developer to be confident that a particular .NET platform conforms to a certain standard for language, supported features etc...
+
+9. Git is the versioning technology, GitHub is a web platform that takes advantage of the Git technology and allows you to store your Git repo's with them.
+
+10. The entry point method is called "Main"

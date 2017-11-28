@@ -1,0 +1,10 @@
+c:\SourceControl\Learning\C#\Chapter01\Ch01_HelloCS\bin\Debug\netcoreapp2.0\Ch01_HelloCS.deps.json
+c:\SourceControl\Learning\C#\Chapter01\Ch01_HelloCS\bin\Debug\netcoreapp2.0\Ch01_HelloCS.runtimeconfig.json
+c:\SourceControl\Learning\C#\Chapter01\Ch01_HelloCS\bin\Debug\netcoreapp2.0\Ch01_HelloCS.runtimeconfig.dev.json
+c:\SourceControl\Learning\C#\Chapter01\Ch01_HelloCS\bin\Debug\netcoreapp2.0\Ch01_HelloCS.dll
+c:\SourceControl\Learning\C#\Chapter01\Ch01_HelloCS\bin\Debug\netcoreapp2.0\Ch01_HelloCS.pdb
+c:\SourceControl\Learning\C#\Chapter01\Ch01_HelloCS\obj\Debug\netcoreapp2.0\Ch01_HelloCS.csproj.CoreCompileInputs.cache
+c:\SourceControl\Learning\C#\Chapter01\Ch01_HelloCS\obj\Debug\netcoreapp2.0\Ch01_HelloCS.AssemblyInfoInputs.cache
+c:\SourceControl\Learning\C#\Chapter01\Ch01_HelloCS\obj\Debug\netcoreapp2.0\Ch01_HelloCS.AssemblyInfo.cs
+c:\SourceControl\Learning\C#\Chapter01\Ch01_HelloCS\obj\Debug\netcoreapp2.0\Ch01_HelloCS.dll
+c:\SourceControl\Learning\C#\Chapter01\Ch01_HelloCS\obj\Debug\netcoreapp2.0\Ch01_HelloCS.pdb
